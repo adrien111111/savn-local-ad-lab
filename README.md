@@ -78,7 +78,8 @@ This lab walks through standing up an Active Directory domain from nothing: inst
 Installed the AD DS and DNS server roles on `FA-SU26-S25-S1`, then promoted it to a domain controller, establishing a new forest and domain: `savn.local`.
 
 <img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_7_2026 8_28_30 PM" src="https://github.com/user-attachments/assets/2a5eb812-c93f-49dc-aadd-02df3be90361" />
- `![S1 in savn.local domain](screenshots/02-s1-in-savn-local-domain.png)` `![S1 set as domain controller](screenshots/03-s1-domain-controller.png)`
+<img width="1920" height="1111" alt="image" src="https://github.com/user-attachments/assets/b34c9870-cf5e-4b6c-87de-6ec7c1e6eead" />
+ `![S1 set as domain controller](screenshots/03-s1-domain-controller.png)`
 
 ### 2\. Joining Machines to the Domain
 
