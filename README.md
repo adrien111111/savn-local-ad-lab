@@ -79,7 +79,8 @@ Installed the AD DS and DNS server roles on `FA-SU26-S25-S1`, then promoted it t
 
 <img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_7_2026 8_28_30 PM" src="https://github.com/user-attachments/assets/2a5eb812-c93f-49dc-aadd-02df3be90361" />
 <img width="1920" height="1111" alt="image" src="https://github.com/user-attachments/assets/b34c9870-cf5e-4b6c-87de-6ec7c1e6eead" />
- `![S1 set as domain controller](screenshots/03-s1-domain-controller.png)`
+<img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_7_2026 8_49_23 PM" src="https://github.com/user-attachments/assets/e596d33b-2c3e-4149-ae36-f4d07f679e62" />
+
 
 ### 2\. Joining Machines to the Domain
 
