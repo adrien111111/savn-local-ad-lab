@@ -86,7 +86,7 @@ Installed the AD DS and DNS server roles on `FA-SU26-S25-S1`, then promoted it t
 
 Joined the second server (`AF-SU26-S25-S2`) and the Windows 11 client (`AF-SU26-W11-C1`) to `savn.local`. Verified both machines appear as computer objects in Active Directory Users and Computers.
 
-`![S2 joins savn.local domain](screenshots/04-s2-joins-domain.png)` `![W11 joins savn.local domain](screenshots/05-w11-joins-domain.png)` `![Computers in savn.local](screenshots/06-computers-in-savn-local.png)`
+<img width="1920" height="1111" alt="AF-SU26-S25-S2  Running  - Oracle VirtualBox 7_7_2026 9_52_52 PM" src="https://github.com/user-attachments/assets/5fafd2b4-6571-436c-a66f-061a74e2b4ed" /> `![W11 joins savn.local domain](screenshots/05-w11-joins-domain.png)` `![Computers in savn.local](screenshots/06-computers-in-savn-local.png)`
 
 ### 3\. Network Configuration & Connectivity Verification
 
