@@ -92,7 +92,7 @@ Joined the second server (`AF-SU26-S25-S2`) and the Windows 11 client (`AF-SU26-
 
 Configured static IP addressing on all three VMs, with each machine pointed to the domain controller (`192.168.0.101`) for DNS resolution. Confirmed configuration with `ipconfig /all` on each machine, then verified full connectivity by pinging between all three VMs in both directions.
 
-<img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 6_28_2026 9_07_45 PM" src="https://github.com/user-attachments/assets/aea7f777-bcbc-446f-a9e6-219a857e914f" /> `![S2 ipconfig /all output](screenshots/08-s2-ipconfig.png)` `![C1 ipconfig /all output](screenshots/09-c1-ipconfig.png)` `![DC1 successful ping to other VMs](screenshots/10-dc1-ping-success.png)` `![S2 successful ping to other VMs](screenshots/11-s2-ping-success.png)` `![C1 successful ping to other VMs](screenshots/12-c1-ping-success.png)`
+<img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 6_28_2026 9_07_45 PM" src="https://github.com/user-attachments/assets/aea7f777-bcbc-446f-a9e6-219a857e914f" /> <img width="1920" height="1111" alt="AF-SU26-S25-S2  Running  - Oracle VirtualBox 6_28_2026 9_13_48 PM" src="https://github.com/user-attachments/assets/d4ef5c57-3812-4f31-a252-2caba001503f" /> <img width="1920" height="1111" alt="AF-SU26-W110C1 (Snapshot 1)  Running  - Oracle VirtualBox 6_28_2026 7_10_59 PM" src="https://github.com/user-attachments/assets/3e4c388c-13fa-40dd-9f33-0bd0f72159ca" /> `![DC1 successful ping to other VMs](screenshots/10-dc1-ping-success.png)` `![S2 successful ping to other VMs](screenshots/11-s2-ping-success.png)` `![C1 successful ping to other VMs](screenshots/12-c1-ping-success.png)`
 
 ### 4\. Organizational Units & User Accounts
 
