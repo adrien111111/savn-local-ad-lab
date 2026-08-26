@@ -108,7 +108,7 @@ Logged in as the local account (`localUser01`) to confirm it authenticates indep
 
 To understand the dependency between domain-joined machines and the DC, I took the domain controller offline and attempted a domain login from the client. Windows correctly surfaced an error indicating the domain wasn't reachable — a good demonstration of why DC availability (and things like cached credentials) matter in a real environment.
 
-`![Attempted domain login when domain server is unavailable](screenshots/19-domain-unavailable.png)`
+<img width="1920" height="1111" alt="AF-SU26-S25-S2  Running  - Oracle VirtualBox 7_20_2026 11_01_07 PM" src="https://github.com/user-attachments/assets/ebadd5ec-9e3f-4769-b619-ac2d88c019b4" />
 
 ---
 
