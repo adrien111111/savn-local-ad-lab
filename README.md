@@ -98,8 +98,7 @@ Configured static IP addressing on all three VMs, with each machine pointed to t
 
 Created new Organizational Units within `savn.local` to reflect a basic departmental structure (Administration, Research, Sales). Created both a **local** user account (on S2) and a **domain** user account (`domainUser01`), and placed the domain user into the Administration OU.
 
-`![New Organizational Units](screenshots/13-new-ous.png)` `![Local user account created](screenshots/14-local-user-created.png)` `![New domain user account created](screenshots/15-domain-user-created.png)` `![domainUser01 in Administration OU](screenshots/16-domainuser-in-ou.png)`
-
+<img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_20_2026 8_00_15 PM" src="https://github.com/user-attachments/assets/042db4fb-6ddb-4b27-a2df-1331f443cc26" /> <img width="1920" height="1111" alt="AF-SU26-S25-S2  Running  - Oracle VirtualBox 7_20_2026 8_20_39 PM" src="https://github.com/user-attachments/assets/dbfbac30-7cb4-4d51-8d37-94adb39d2953" /> <img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_20_2026 9_18_44 PM" src="https://github.com/user-attachments/assets/8ec018cf-e7d3-4f61-bc96-7a06ec435418" /> <img width="1920" height="1111" alt="FA-SU26-S25-S1  Running  - Oracle VirtualBox 7_20_2026 10_14_11 PM" src="https://github.com/user-attachments/assets/40a96a39-0fce-4ecb-b944-86d309e9df26" />
 ### 5\. Authentication Testing: Local vs. Domain
 
 Logged in as the local account (`localUser01`) to confirm it authenticates independently of the domain. Then logged in as `domainUser01` on the Windows 11 client to confirm successful domain authentication against `savn.local`.
