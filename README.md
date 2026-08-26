@@ -103,8 +103,7 @@ Created new Organizational Units within `savn.local` to reflect a basic departme
 
 Logged in as the local account (`localUser01`) to confirm it authenticates independently of the domain. Then logged in as `domainUser01` on the Windows 11 client to confirm successful domain authentication against `savn.local`.
 
-`![localUser01 logged in locally](screenshots/17-local-login.png)` `![Domain user logged into savn.local](screenshots/18-domain-login.png)`
-
+<img width="1920" height="1111" alt="AF-SU26-S25-S2  Running  - Oracle VirtualBox 7_20_2026 10_24_25 PM" src="https://github.com/user-attachments/assets/d2d9a1a4-1537-4339-a7c8-88066ab844f4" /> <img width="1920" height="1111" alt="AF-SU26-W110C1 (Snapshot 1)  Running  - Oracle VirtualBox 7_20_2026 10_32_52 PM" src="https://github.com/user-attachments/assets/4fb5d051-4ab3-45bf-8aab-b93894fcb5ea" />
 ### 6\. Failure Scenario: Domain Controller Unavailable
 
 To understand the dependency between domain-joined machines and the DC, I took the domain controller offline and attempted a domain login from the client. Windows correctly surfaced an error indicating the domain wasn't reachable — a good demonstration of why DC availability (and things like cached credentials) matter in a real environment.
